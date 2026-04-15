@@ -77,24 +77,24 @@ Profiles exceeding threshold are classified as:
 ## 🧬 Workflow
 
 
-Input Username
+- Input Username
 ↓
-Fetch Followers
+- Fetch Followers
 ↓
-Extract Profile Data
+- Extract Profile Data
 ↓
-Analyze Bio + Repos
+- Analyze Bio + Repos
 ↓
-Apply Scoring Engine
+- Apply Scoring Engine
 ↓
-Generate Intelligence Report
+- Generate Intelligence Report
 
 
 🛠️ Installation
->> git clone https://github.com/yourusername/github-cyber-finder.git
->> cd github-cyber-finder
->> pip install -r requirements.txt
->> python3 github_cyber_finder.py
+- git clone https://github.com/yourusername/github-cyber-finder.git
+- cd github-cyber-finder
+- pip install -r requirements.txt
+- python3 github_cyber_finder.py
 
 ▶️ Usage
->> python3 github_cyber_finder.py
+- python3 github_cyber_finder.py
