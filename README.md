@@ -91,7 +91,7 @@ Profiles exceeding threshold are classified as:
 
 
 🛠️ Installation
-- git clone https://github.com/yourusername/github-cyber-finder.git
+- git clone https://github.com/ifyouknowyou/GitIntel.git
 - cd github-cyber-finder
 - pip install -r requirements.txt
 - python3 github_cyber_finder.py
