@@ -91,9 +91,9 @@ Generate Intelligence Report
 
 
 🛠️ Installation
-$ git clone https://github.com/ifyouknowyou/GitIntel.git
-$ cd GitIntel
-$ pip install -r requirements.txt
+  $ git clone https://github.com/ifyouknowyou/GitIntel.git
+  $ cd GitIntel
+  $ pip install -r requirements.txt
 
 ▶️ Usage
-python3 github_cyber_finder.py
+$ python3 github_cyber_finder.py
