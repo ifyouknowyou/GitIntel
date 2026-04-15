@@ -91,10 +91,10 @@ Generate Intelligence Report
 
 
 🛠️ Installation
-git clone https://github.com/yourusername/github-cyber-finder.git
-cd github-cyber-finder
-pip install -r requirements.txt
-python3 github_cyber_finder.py
+>> git clone https://github.com/yourusername/github-cyber-finder.git
+>> cd github-cyber-finder
+>> pip install -r requirements.txt
+>> python3 github_cyber_finder.py
 
 ▶️ Usage
-$ python3 github_cyber_finder.py
+>> python3 github_cyber_finder.py
